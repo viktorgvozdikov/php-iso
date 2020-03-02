@@ -1,0 +1,32 @@
+{
+  "name":"modulebz/iso",
+  "description": "Various enum iso",
+  "version": "0.0.1",
+  "keywords": ["iso","php"],
+  "homepage": "https://module.bz",
+  "license": "MIT",
+  "authors" : [
+    {
+      "name": "Viktor Gvozdikov",
+      "homepage": "https://gvozdikov.net/",
+      "email": "victor@module.bz",
+      "role": "developer"
+    }
+  ],
+  "support": {
+    "email"   : "victor@gvozdikov.net",
+    "issues"  : "https://github.com/apiclub/php-iso/issues",
+    "source"  : "https://github.com/apiclub/php-iso",
+    "wiki"    : "https://github.com/apiclub/php-iso/wiki"
+  },
+  "autoload": {
+    "psr-4": {
+      "ModuleBZ\\": "src/"
+    }
+  },
+  "require": {
+    "php":">=7.0.0",
+    "ext-json": "*",
+    "ext-curl": "*"
+  }
+}
