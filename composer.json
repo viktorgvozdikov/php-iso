@@ -15,9 +15,9 @@
   ],
   "support": {
     "email"   : "victor@gvozdikov.net",
-    "issues"  : "https://github.com/apiclub/php-iso/issues",
-    "source"  : "https://github.com/apiclub/php-iso",
-    "wiki"    : "https://github.com/apiclub/php-iso/wiki"
+    "issues"  : "https://github.com/viktorgvozdikov/php-iso/issues",
+    "source"  : "https://github.com/viktorgvozdikov/php-iso",
+    "wiki"    : "https://github.com/viktorgvozdikov/php-iso/wiki"
   },
   "autoload": {
     "psr-4": {
@@ -25,8 +25,6 @@
     }
   },
   "require": {
-    "php":">=7.0.0",
-    "ext-json": "*",
-    "ext-curl": "*"
+    "php":">=7.0.0"
   }
 }
