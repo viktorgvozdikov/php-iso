@@ -1,6 +1,6 @@
 <?
 
-namespace ModuleBZ;
+namespace ModuleBZ\ISO\enum;
 
 class ISO639_1 {
     /** @var String Абхазский */
