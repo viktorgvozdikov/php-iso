@@ -1,7 +1,7 @@
 {
   "name":"modulebz/iso",
   "description": "Various enum iso",
-  "version": "0.0.1",
+  "version": "1.0",
   "keywords": ["iso","php"],
   "homepage": "https://module.bz",
   "license": "MIT",
